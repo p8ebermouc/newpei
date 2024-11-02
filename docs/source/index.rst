@@ -35,7 +35,7 @@ Website: https://newpei.bet/
 `https://newpei.bandcamp.com/album/newpei <https://newpei.bandcamp.com/album/newpei>`_
 `https://newpei.webflow.io/ <https://newpei.webflow.io/>`_
 `https://disqus.com/by/newpei/about/ <https://disqus.com/by/newpei/about/>`_
-`https://newpei.readthedocs.io/ <https://newpei.readthedocs.io/>`_
+`https://newpeigroup1.readthedocs.io/en/latest/ <https://newpeigroup1.readthedocs.io/en/latest/>`_
 `https://about.me/newpei <https://about.me/newpei>`_
 `https://www.mixcloud.com/newpeigroup/ <https://www.mixcloud.com/newpeigroup/>`_
 `https://hub.docker.com/u/newpei <https://hub.docker.com/u/newpei>`_
